@@ -1,0 +1,8 @@
+# never commit AWS output, archives, or local notes
+*.zip
+*.log
+*.json
+.DS_Store
+*.env
+!*.env.example
+_to_delete/
